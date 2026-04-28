@@ -1,0 +1,10 @@
+.venv/
+.pytest_cache/
+__pycache__/
+*.py[cod]
+exports/
+*.egg-info/
+.env
+.env.*
+cookie.txt
+*cookie*.txt
